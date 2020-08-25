@@ -1,1 +1,1 @@
-# django-app-with-simple-regression-analysis
+django-app-with-simple-regression-analysis
